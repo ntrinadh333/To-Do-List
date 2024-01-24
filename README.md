@@ -39,7 +39,7 @@ Steps to Run this web project.
       );
 6. Make sure that user and root of your database are correct in the config.php file .
    In my case it user = root , password = root , host = localhost:3306 (mysql).
-7. check whether your apache server is startes or not in xampp.
+7. check whether your apache server is started or not in xampp control panel.
 8. now open your browser and type (http://localhost/taskmanager/index.html)
 9. You'll able to see the index page and options provided to login and register.
 10. Explore the site !!!
